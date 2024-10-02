@@ -1,0 +1,31 @@
+body{
+background-color: black;
+}
+
+h1{
+    display: flex;
+    color: rgb(157, 249, 19);
+    justify-content: center;
+}
+
+p{
+    color: springgreen;
+    font-size: 20px;
+}
+div{
+    display: flex;
+    justify-content:center;
+    gap: 150px;
+}
+button{
+    height: 90px;
+    width: 100px;
+    margin-top: 40px;
+    background-color: black;
+    color: rgb(111, 255, 183);
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium';
+}
+#Misterio{
+    text-align: center;
+}
